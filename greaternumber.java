@@ -5,9 +5,9 @@ public class greaternumber {
         int num1=sc.nextInt();
         int num2=sc.nextInt();
         if(num1>num2){
-            System.out.println("number is greater :" +num1);
+            System.out.println("number is greaters :" +num1);
         }else{
-            System.out.println("number is greater : "+num2);
+            System.out.println("number is greaters : "+num2);
         }
       }
 }
