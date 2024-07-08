@@ -20,3 +20,25 @@ public class primenumber
 		
 	}
 }
+
+// public class Main
+// {
+// 	public static void main(String[] args) {
+// 	    //int n=23;	  
+// 	    int tmp=0;
+// 	    for(int i=1;i<=100;i++){
+// 	        	   // int tmp=0;
+// 	        for(int j=2;j<i;j++){
+// 	            if(i%j==0){
+// 	            tmp++;
+// 	           }
+// 	        }
+	    
+// 	    if(tmp==0){
+// 	        System.out.println(i);
+// 	    }else{
+// 	        tmp=0;
+// 	    }
+// 	    }	
+// 	}
+// }
