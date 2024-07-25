@@ -10,6 +10,7 @@ public class arrmax {
         for(int i=0;i<n;i++){
             arr[i]=sc.nextInt();
         }
+        //Logic part below
         int max=arr[0];
         for(int i=1;i<n;i++){
             if(arr[i]>max){
